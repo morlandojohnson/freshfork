@@ -18,6 +18,12 @@ body {
   overflow-x: hidden;
 }
 
+.section-featured,
+.section-testimonials,
+.footer {
+  background: #eeeeee;
+}
+
 /* *** General Reusable Components *** */
 
 .container {
