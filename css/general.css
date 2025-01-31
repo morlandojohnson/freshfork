@@ -149,11 +149,11 @@ body {
 
 .btn-form:hover {
   color: #538735;
-  transform: scale(1.02);
+  transform: scale(1.01);
 }
 
 .btn-form:active {
-  transform: scale(0.99);
+  transform: scale(1);
 }
 
 .link:link,

@@ -223,6 +223,11 @@ Instead, 1rem = 1em = 16px */
     grid-template-columns: 1fr;
   }
 
+  .grid-2-cols {
+    justify-content: center;
+    width: 85%;
+  }
+
   .btn,
   .btn:link,
   .btn:visited {
@@ -244,6 +249,13 @@ Instead, 1rem = 1em = 16px */
 
   .logos img {
     height: 1.2rem;
+  }
+
+  .step-text-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* text-align: center; */
   }
 
   .step-img-box:nth-child(2) {
@@ -275,6 +287,13 @@ Instead, 1rem = 1em = 16px */
   .gallery {
     grid-template-columns: repeat(3, 1fr);
     gap: 1.2rem;
+  }
+
+  .feature {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
   }
 
   .cta {
