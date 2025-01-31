@@ -101,7 +101,7 @@ Instead, 1rem = 1em = 16px */
 
   .gallery {
     grid-template-columns: repeat(3, 1fr);
-    padding: 0 3.2rem;
+    padding: 3.2rem;
   }
 
   .cta {

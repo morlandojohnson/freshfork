@@ -301,7 +301,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1.6rem;
-  /* padding: 12.8rem 1.6rem 1.6rem; */
+  padding: 3.2rem 1.6rem;
 }
 
 .gallery-item {
